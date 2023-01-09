@@ -704,6 +704,10 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.keywords{
+    color: white;
+    font-size: 15px;
+}
 
 h2 {
     font-size: 22px;
