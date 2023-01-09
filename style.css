@@ -743,7 +743,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
-
+.text-center white{
+    font-size: 50px;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
