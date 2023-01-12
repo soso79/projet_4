@@ -1042,6 +1042,11 @@ h4 {
         height: 320px;
     }
 }
+.img-responsive portfolio-thumb{
+    width: 50%;
+    height: 50%;
+    border: 2px solid blue;
+}
 
 @media (max-width: 400px) {
     .bloc {
