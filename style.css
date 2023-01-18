@@ -9,6 +9,9 @@ body {
 .social{
     color: #000000;
 }
+.black-text{
+color: #000000 !important;
+}
 
 a,
 button {
