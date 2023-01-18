@@ -322,7 +322,7 @@ ul{
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
-    width: 100px;
+    
 }
 
 .nav-center .navbar-brand img {
