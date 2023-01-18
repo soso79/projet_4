@@ -9,9 +9,7 @@ body {
 .social{
     color: #000000;
 }
-.black-text{
-color: #000000 !important;
-}
+
 
 a,
 button {
@@ -794,7 +792,7 @@ h4 {
 }
 
 .tc-white {
-    color: rgb(251, 251, 251)!important;
+    color: black!important;
     font-size: 30px;
 }
 
