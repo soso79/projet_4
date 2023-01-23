@@ -1070,7 +1070,10 @@ h4 {
     height: 100px;
 }
 
-
+#citation{
+    width: 575px;
+    height: 145px;
+}
 
 @media (max-width: 400px) {
     .bloc {
