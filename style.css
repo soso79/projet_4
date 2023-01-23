@@ -1063,9 +1063,12 @@ h4 {
 .resize-mode img{
     width: 100px;
     height: 100px;
-    opacity: 0;
+    
 }
-
+#pantere_svg{
+    width: 100px;
+    height: 40px;
+}
 
 
 @media (max-width: 400px) {
