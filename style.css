@@ -316,7 +316,6 @@ ul{
 
 .navbar-brand img {
     max-height: 200px;
-    width: 100px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -1067,7 +1066,10 @@ h4 {
     
     
 }
-
+#pantere_svg{
+    width: 100px;
+    height: 40px;
+}
 
 
 @media (max-width: 400px) {
