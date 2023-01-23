@@ -316,12 +316,16 @@ ul{
 
 .navbar-brand img {
     max-height: 200px;
+    height: 200px;
+    width: 200px;
     margin: 0 5px 0 0;
     display: inline;
 }
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
+    width: 100px;
+    height: 200px;
 }
 
 .nav-center .navbar-brand img {
@@ -988,6 +992,7 @@ h4 {
     .navbar-brand img {
         max-height: 40px;
         width: auto;
+        height: 40px;
     }
     .nav-invert .navbar-header {
         float: none;
