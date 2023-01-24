@@ -1074,6 +1074,14 @@ h4 {
     width: 565px;
     height: 145px;
 }
+#titre{
+    width: 634px;
+    height: 75px;
+}
+#titre_2{
+    width: 476px;
+    height: 99px;
+}
 
 @media (max-width: 400px) {
     .bloc {
