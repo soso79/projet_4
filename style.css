@@ -348,13 +348,14 @@ ul{
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
-a:focus.tab{
-    outline-color: #000000;
-}
 
+a:focus{
+    color: #000000;
+    background-color: #FFF;
+}
 .nav > li a:hover,
 .nav > li a:focus {
-    background: red;
+    background: transparent;
 }
 
 .navbar-toggle {
