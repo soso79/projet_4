@@ -349,12 +349,12 @@ ul{
     text-align: inherit;
 }
 a:focus.tab{
-    outline: #000000;
+    outline-color: #000000;
 }
 
 .nav > li a:hover,
 .nav > li a:focus {
-    background: transparent;
+    background: red;
 }
 
 .navbar-toggle {
