@@ -349,9 +349,7 @@ ul{
     text-align: inherit;
 }
 
-a:focus{
-    outline: 4px solid black;
-}
+
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
