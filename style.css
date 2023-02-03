@@ -350,8 +350,7 @@ ul{
 }
 
 a:focus{
-    color: #000000;
-    background-color: #FFF;
+    outline: 4px solid black;
 }
 .nav > li a:hover,
 .nav > li a:focus {
