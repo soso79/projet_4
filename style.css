@@ -10,7 +10,9 @@ body {
     color: #000000;
 }
 
-
+.tab:focus{
+    color: #000000;
+}
 
 a,
 button {
