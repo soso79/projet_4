@@ -349,10 +349,9 @@ ul{
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
-a:focus{
-    color:#FFF;
-    background-color: #000000;
-    outline: 4px solid  turquoise;
+
+:focus.tab{
+    outline: #000000;
 }
 
 .nav > li a:hover,
