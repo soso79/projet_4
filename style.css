@@ -19,7 +19,7 @@ button {
 }
 a:focus.tab{
     background-color: #000000;
-    color: #FFF;
+    color: #cf1818;
 }
 
 a:hover {
