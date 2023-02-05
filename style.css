@@ -10,16 +10,16 @@ body {
     color: #000000;
 }
 
-tab:focus{
-    background-color: #000000;
-    outline: 4px violet;
 
-}
 
 a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+}
+a:focus.tab{
+    background-color: #000000;
+    color: #FFF;
 }
 
 a:hover {
