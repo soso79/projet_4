@@ -349,11 +349,7 @@ ul{
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
-a:focus{
-    color: #000000;
-    background-color: #FFF;
-    
-}
+
 
 .nav > li a:hover,
 .nav > li a:focus {
@@ -484,9 +480,7 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
+
 
 .btn-rd {
     border-radius: 40px;
