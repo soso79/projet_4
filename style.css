@@ -17,10 +17,7 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-a:focus{
-    background-color: #000000;
-    color: #cf1818;
-}
+
 
 a:hover {
     text-decoration: none;
@@ -357,6 +354,7 @@ ul{
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    color: #FFF;
 }
 
 .navbar-toggle {
