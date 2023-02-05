@@ -350,8 +350,9 @@ ul{
     text-align: inherit;
 }
 a:focus{
-    color: #000000;
-    background-color: #FFF;
+    color:#FFF;
+    background-color: #000000;
+    outline: 4px solid  turquoise;
 }
 
 .nav > li a:hover,
