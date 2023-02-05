@@ -10,8 +10,10 @@ body {
     color: #000000;
 }
 
-:focus.tab{
-    outline: 4px black;
+tab:focus{
+    background-color: #000000;
+    outline: 4px violet;
+
 }
 
 a,
